@@ -18,7 +18,7 @@ public class GameManager {
                 break;
             }
             c2.kick(c1);
-            System.out.println("-----------------------------------------------------");
+            System.out.println("----------------------------------------------------");
             System.out.println("After the kick from second Characters' attributes are:");
             Character_1(c1);
             Character_2(c2);
